@@ -14,6 +14,8 @@ dateNow = datetime.datetime.now()
 "Days From 2021-06-25 To 2021-08-10 Is => 46"
 print(f"Days from {date.date()} to {dateNow.date()} is => {(dateNow - date).days}")
 
+print("#" * 50)
+
 # ========================
 # === Second Assignment ===
 # ========================
